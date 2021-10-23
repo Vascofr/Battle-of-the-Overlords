@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "overlord_attack1.png",
+	"frame": {"x":2,"y":2,"w":79,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":79,"h":195},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_attack2.png",
+	"frame": {"x":83,"y":2,"w":179,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":34,"w":179,"h":161},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_attack3.png",
+	"frame": {"x":2,"y":392,"w":91,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":34,"w":91,"h":161},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_death1.png",
+	"frame": {"x":338,"y":352,"w":97,"h":165},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":30,"w":97,"h":165},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_death2.png",
+	"frame": {"x":505,"y":348,"w":139,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":60,"w":139,"h":135},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_death3.png",
+	"frame": {"x":75,"y":199,"w":183,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":108,"w":183,"h":87},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_death4.png",
+	"frame": {"x":2,"y":199,"w":191,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":130,"w":191,"h":71},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_idle1.png",
+	"frame": {"x":608,"y":2,"w":87,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":87,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_idle2.png",
+	"frame": {"x":522,"y":175,"w":87,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":87,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_kick1.png",
+	"frame": {"x":335,"y":2,"w":93,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":24,"w":93,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run1.png",
+	"frame": {"x":519,"y":2,"w":87,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":87,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run2.png",
+	"frame": {"x":255,"y":177,"w":87,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":22,"w":87,"h":173},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run3.png",
+	"frame": {"x":246,"y":2,"w":87,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":22,"w":87,"h":173},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run4.png",
+	"frame": {"x":433,"y":175,"w":87,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":87,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run5.png",
+	"frame": {"x":430,"y":2,"w":87,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":87,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run6.png",
+	"frame": {"x":344,"y":175,"w":87,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":87,"h":171},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run7.png",
+	"frame": {"x":164,"y":183,"w":89,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":22,"w":89,"h":173},
+	"sourceSize": {"w":203,"h":201}
+},
+{
+	"filename": "overlord_run8.png",
+	"frame": {"x":165,"y":358,"w":97,"h":171},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":97,"h":171},
+	"sourceSize": {"w":203,"h":201}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "overlord_yellow.png",
+	"format": "RGBA8888",
+	"size": {"w":697,"h":485},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:21240858e7c9261ecbcdac1003b8b17a:56aece17c87c789c4d5d4edced6691b1:8ac36e4b9e7e654070c7a6304231f5f2$"
+}
+}

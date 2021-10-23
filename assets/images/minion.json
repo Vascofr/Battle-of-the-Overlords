@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "minion_attack1.png",
+	"frame": {"x":357,"y":2,"w":29,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_attack2.png",
+	"frame": {"x":37,"y":2,"w":53,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":53,"h":49},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_death1.png",
+	"frame": {"x":587,"y":2,"w":37,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":37,"h":45},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_death2.png",
+	"frame": {"x":544,"y":2,"w":45,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":45,"h":41},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_death3.png",
+	"frame": {"x":88,"y":2,"w":53,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":53,"h":33},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_death4.png",
+	"frame": {"x":2,"y":2,"w":55,"h":33},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":55,"h":33},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_idle1.png",
+	"frame": {"x":505,"y":2,"w":37,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":37,"h":47},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_idle2.png",
+	"frame": {"x":466,"y":2,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":37,"h":49},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run1.png",
+	"frame": {"x":318,"y":2,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run2.png",
+	"frame": {"x":279,"y":2,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run3.png",
+	"frame": {"x":240,"y":2,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run4.png",
+	"frame": {"x":427,"y":2,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":37,"h":49},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run5.png",
+	"frame": {"x":201,"y":2,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run6.png",
+	"frame": {"x":162,"y":2,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run7.png",
+	"frame": {"x":123,"y":2,"w":37,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":51},
+	"sourceSize": {"w":55,"h":51}
+},
+{
+	"filename": "minion_run8.png",
+	"frame": {"x":388,"y":2,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":37,"h":49},
+	"sourceSize": {"w":55,"h":51}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "minion_yellow.png",
+	"format": "RGBA8888",
+	"size": {"w":626,"h":59},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a2076e47e3d00fa6067c32233a1c7f5e:290f7a9db3cc0d9538c7fd44f28e7a01:d10e6d7e0d4596450f883ca57482ebcd$"
+}
+}
